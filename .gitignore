@@ -45,6 +45,14 @@
 # Kernel Module Compile Results
 *.mod*
 *.cmd
+
+Debug/
+Debug/*
+.settings/
+.settings/*
+
+
+
 modules.order
 Module.symvers
 Mkfile.old
